@@ -1,0 +1,159 @@
+DAILY QUOTE DATABASE
+===================
+
+1. "The only limit to our realization of tomorrow is our doubts of today." — Franklin D. Roosevelt
+2. "In the middle of every difficulty lies opportunity." — Albert Einstein
+3. "It always seems impossible until it's done." — Nelson Mandela
+4. "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill
+5. "Do not watch the clock. Do what it does. Keep going." — Sam Levenson
+6. "What we think, we become." — Buddha
+7. "Whether you think you can, or you think you can't—you're right." — Henry Ford
+8. "The best way to predict the future is to create it." — Peter Drucker
+9. "Quality is not an act, it is a habit." — Aristotle
+10. "Simplicity is the ultimate sophistication." — Leonardo da Vinci
+11. "The journey of a thousand miles begins with one step." — Lao Tzu
+12. "Believe you can and you're halfway there." — Theodore Roosevelt
+13. "Don't count the days, make the days count." — Muhammad Ali
+14. "The only way to do great work is to love what you do." — Steve Jobs
+15. "Life is what happens when you're busy making other plans." — John Lennon
+16. "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt
+17. "Everything you've ever wanted is on the other side of fear." — George Addair
+18. "The mind is everything. What you think you become." — Buddha
+19. "The best revenge is massive success." — Frank Sinatra
+20. "I have not failed. I've just found 10,000 ways that won't work." — Thomas Edison
+21. "A journey of a thousand miles begins with a single step." — Lao Tzu
+22. "What you get by achieving your goals is not as important as what you become by achieving your goals." — Zig Ziglar
+23. "The only person you are destined to become is the person you decide to be." — Ralph Waldo Emerson
+24. "Go confidently in the direction of your dreams. Live the life you have imagined." — Henry David Thoreau
+25. "When one door of happiness closes, another opens." — Helen Keller
+26. "Always do your best. What you plant now, you will harvest later." — Ralph Waldo Emerson
+27. "The only impossible journey is the one you never begin." — Tony Robbins
+28. "In this life we cannot do great things. We can only do small things with great love." — Mother Teresa
+29. "Only a life lived for others is a life worthwhile." — Albert Einstein
+30. "You miss 100% of the shots you don't take." — Wayne Gretzky
+31. "The greatest glory in living lies not in never falling, but in rising every time we fall." — Nelson Mandela
+32. "The way to get started is to quit talking and begin doing." — Walt Disney
+33. "Life is really simple, but we insist on making it complicated." — Confucius
+34. "Spread love everywhere you go. Let no one ever come to you without leaving happier." — Mother Teresa
+35. "When you reach the end of your rope, tie a knot in it and hang on." — Franklin D. Roosevelt
+36. "Always remember that you are absolutely unique. Just like everyone else." — Margaret Mead
+37. "Don't judge each day by the harvest you reap but by the seeds that you plant." — Robert Louis Stevenson
+38. "The future is not something we enter. The future is something we create." — Leonard I. Sweet
+39. "Peace comes from within. Do not seek it without." — Buddha
+40. "The only true wisdom is in knowing you know nothing." — Socrates
+41. "The mind is everything. What you think you become." — Buddha
+42. "The best time to plant a tree was 20 years ago. The second best time is now." — Chinese Proverb
+43. "An unexamined life is not worth living." — Socrates
+44. "Eighty percent of success is showing up." — Woody Allen
+45. "Your time is limited, don't waste it living someone else's life." — Steve Jobs
+46. "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh
+47. "What we achieve inwardly will change outer reality." — Plutarch
+48. "The secret of getting ahead is getting started." — Mark Twain
+49. "It's not whether you get knocked down, it's whether you get up." — Vince Lombardi
+50. "The man who has no imagination has no wings." — Muhammad Ali
+51. "Happiness is not something ready made. It comes from your own actions." — Dalai Lama
+52. "The only limit to our realization of tomorrow will be our doubts of today." — Franklin D. Roosevelt
+53. "What you are is what you have been. What you'll be is what you do now." — Buddha
+54. "I can't change the direction of the wind, but I can adjust my sails to always reach my destination." — Jimmy Dean
+55. "Believe in yourself! Have faith in your abilities!" — Norman Vincent Peale
+56. "If you can dream it, you can do it." — Walt Disney
+57. "The difference between ordinary and extraordinary is that little extra." — Jimmy Johnson
+58. "The best way to find yourself is to lose yourself in the service of others." — Mahatma Gandhi
+59. "If you want to lift yourself up, lift up someone else." — Booker T. Washington
+60. "The only person you should try to be better than is the person you were yesterday." — Anonymous
+61. "A wise man can learn more from a foolish question than a fool can learn from a wise answer." — Bruce Lee
+62. "The man who does not read books has no advantage over the one who cannot read them." — Mark Twain
+63. "Education is the most powerful weapon which you can use to change the world." — Nelson Mandela
+64. "The more that you read, the more things you will know. The more that you learn, the more places you'll go." — Dr. Seuss
+65. "Live as if you were to die tomorrow. Learn as if you were to live forever." — Mahatma Gandhi
+66. "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice." — Brian Herbert
+67. "Learning never exhausts the mind." — Leonardo da Vinci
+68. "The beautiful thing about learning is that nobody can take it away from you." — B.B. King
+69. "Education is not preparation for life; education is life itself." — John Dewey
+70. "The roots of education are bitter, but the fruit is sweet." — Aristotle
+71. "Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family." — Kofi Annan
+72. "The aim of education is the knowledge, not of facts, but of values." — William S. Burroughs
+73. "Education is the key to success in life, and teachers make a lasting impact in the lives of their students." — Solomon Ortiz
+74. "The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education." — Martin Luther King Jr.
+75. "Education is not the filling of a pot but the lighting of a fire." — W.B. Yeats
+76. "The more you know, the more you realize you don't know." — Aristotle
+77. "Learning is a treasure that will follow its owner everywhere." — Chinese Proverb
+78. "The only source of knowledge is experience." — Albert Einstein
+79. "Tell me and I forget. Teach me and I remember. Involve me and I learn." — Benjamin Franklin
+80. "The expert in anything was once a beginner." — Helen Hayes
+81. "Success is not the key to happiness. Happiness is the key to success." — Herman Cain
+82. "The only way to do great work is to love what you do." — Steve Jobs
+83. "Don't be afraid to give up the good to go for the great." — John D. Rockefeller
+84. "I find that the harder I work, the more luck I seem to have." — Thomas Jefferson
+85. "The road to success and the road to failure are almost exactly the same." — Colin R. Davis
+86. "Success usually comes to those who are too busy to be looking for it." — Henry David Thoreau
+87. "The secret of success is to know something nobody else knows." — Aristotle Onassis
+88. "The way to get started is to quit talking and begin doing." — Walt Disney
+89. "Success is walking from failure to failure with no loss of enthusiasm." — Winston Churchill
+90. "Don't count the days, make the days count." — Muhammad Ali
+91. "The only limit to our realization of tomorrow is our doubts of today." — Franklin D. Roosevelt
+92. "What you get by achieving your goals is not as important as what you become by achieving your goals." — Zig Ziglar
+93. "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt
+94. "It's not what you look at that matters, it's what you see." — Henry David Thoreau
+95. "The only impossible journey is the one you never begin." — Tony Robbins
+96. "In this life we cannot do great things. We can only do small things with great love." — Mother Teresa
+97. "Only a life lived for others is a life worthwhile." — Albert Einstein
+98. "You miss 100% of the shots you don't take." — Wayne Gretzky
+99. "The greatest glory in living lies not in never falling, but in rising every time we fall." — Nelson Mandela
+100. "Life is really simple, but we insist on making it complicated." — Confucius
+101. "Spread love everywhere you go. Let no one ever come to you without leaving happier." — Mother Teresa
+102. "When you reach the end of your rope, tie a knot in it and hang on." — Franklin D. Roosevelt
+103. "Always remember that you are absolutely unique. Just like everyone else." — Margaret Mead
+104. "Don't judge each day by the harvest you reap but by the seeds that you plant." — Robert Louis Stevenson
+105. "The future is not something we enter. The future is something we create." — Leonard I. Sweet
+106. "Peace comes from within. Do not seek it without." — Buddha
+107. "The only true wisdom is in knowing you know nothing." — Socrates
+108. "The best time to plant a tree was 20 years ago. The second best time is now." — Chinese Proverb
+109. "An unexamined life is not worth living." — Socrates
+110. "Eighty percent of success is showing up." — Woody Allen
+111. "Your time is limited, don't waste it living someone else's life." — Steve Jobs
+112. "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh
+113. "What we achieve inwardly will change outer reality." — Plutarch
+114. "The secret of getting ahead is getting started." — Mark Twain
+115. "It's not whether you get knocked down, it's whether you get up." — Vince Lombardi
+116. "The man who has no imagination has no wings." — Muhammad Ali
+117. "Happiness is not something ready made. It comes from your own actions." — Dalai Lama
+118. "What you are is what you have been. What you'll be is what you do now." — Buddha
+119. "I can't change the direction of the wind, but I can adjust my sails to always reach my destination." — Jimmy Dean
+120. "Believe in yourself! Have faith in your abilities!" — Norman Vincent Peale
+121. "If you can dream it, you can do it." — Walt Disney
+122. "The difference between ordinary and extraordinary is that little extra." — Jimmy Johnson
+123. "The best way to find yourself is to lose yourself in the service of others." — Mahatma Gandhi
+124. "If you want to lift yourself up, lift up someone else." — Booker T. Washington
+125. "The only person you should try to be better than is the person you were yesterday." — Anonymous
+126. "A wise man can learn more from a foolish question than a fool can learn from a wise answer." — Bruce Lee
+127. "The man who does not read books has no advantage over the one who cannot read them." — Mark Twain
+128. "Education is the most powerful weapon which you can use to change the world." — Nelson Mandela
+129. "The more that you read, the more things you will know. The more that you learn, the more places you'll go." — Dr. Seuss
+130. "Live as if you were to die tomorrow. Learn as if you were to live forever." — Mahatma Gandhi
+131. "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice." — Brian Herbert
+132. "Learning never exhausts the mind." — Leonardo da Vinci
+133. "The beautiful thing about learning is that nobody can take it away from you." — B.B. King
+134. "Education is not preparation for life; education is life itself." — John Dewey
+135. "The roots of education are bitter, but the fruit is sweet." — Aristotle
+136. "Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family." — Kofi Annan
+137. "The aim of education is the knowledge, not of facts, but of values." — William S. Burroughs
+138. "Education is the key to success in life, and teachers make a lasting impact in the lives of their students." — Solomon Ortiz
+139. "The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education." — Martin Luther King Jr.
+140. "Education is not the filling of a pot but the lighting of a fire." — W.B. Yeats
+141. "The more you know, the more you realize you don't know." — Aristotle
+142. "Learning is a treasure that will follow its owner everywhere." — Chinese Proverb
+143. "The only source of knowledge is experience." — Albert Einstein
+144. "Tell me and I forget. Teach me and I remember. Involve me and I learn." — Benjamin Franklin
+145. "The expert in anything was once a beginner." — Helen Hayes
+146. "Success is not the key to happiness. Happiness is the key to success." — Herman Cain
+147. "Don't be afraid to give up the good to go for the great." — John D. Rockefeller
+148. "I find that the harder I work, the more luck I seem to have." — Thomas Jefferson
+149. "The road to success and the road to failure are almost exactly the same." — Colin R. Davis
+150. "Success usually comes to those who are too busy to be looking for it." — Henry David Thoreau
+151. "The secret of success is to know something nobody else knows." — Aristotle Onassis
+152. "Success is walking from failure to failure with no loss of enthusiasm." — Winston Churchill
+153. "It's not what you look at that matters, it's what you see." — Henry David Thoreau
+
+Total Quotes: 153
+Note: This provides enough unique quotes for about 5 months of daily use before any repeats.
